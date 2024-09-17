@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning python and web development
 - 💞️ I’m looking to collaborate on all projects related to computer science
-- 📫 How to reach me .. on instagram as @adityasoni2135
+- 📫 Contact me on X : @adityasoni2135 | LinkedIn : @adityasoni2135
 - 😄 Pronouns: he/him
 
 <!---
